@@ -1,8 +1,8 @@
 # Builder Buddy / Compañero Constructor 🛠️
 
-Builder Buddy is an AI-powered web application designed to help kids (and adults!) find inspiration and guidance for their Minecraft builds. It uses Google's Gemini API to generate creative ideas, visualize them, and provide step-by-step building instructions.
+![Builder Buddy App](public/banner.png)
 
-![Builder Buddy App](https://images.unsplash.com/photo-1607513168936-977d560d7142?q=80&w=1200&auto=format&fit=crop)
+Builder Buddy is an AI-powered web application designed to help kids (and adults!) find inspiration and guidance for their Minecraft builds. It uses Google's Gemini API to generate creative ideas, visualize them, and provide step-by-step building instructions.
 
 ## ✨ Features
 

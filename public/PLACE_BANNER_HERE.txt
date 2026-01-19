@@ -1,0 +1,2 @@
+Place your banner.png file in this folder.
+The image will be accessible at /banner.png in your app.
