@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft Builder Buddy",
+  "description": "A creative companion for Minecraft players featuring idea generation, step-by-step building guides, and environment analysis.",
+  "requestFramePermissions": ["camera"]
+}

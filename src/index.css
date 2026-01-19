@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=VT323&display=swap');
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-pixel: "VT323", monospace;
+  --font-body: "Nunito", sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: #f0fdf4; /* green-50 */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-pixel);
+}
